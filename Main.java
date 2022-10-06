@@ -4,6 +4,7 @@ public class Main {
         
         Plus k = new Plus();
         k.setData(4, 3);
+        k.print(4, 3);
         k.answer();
         Minus g = new Minus();
         g.setA(9);
