@@ -1,5 +1,15 @@
 public class Plus extends Calc implements PrintAns{
 
+    public class InnerPlus {
+    
+        int a;
+        void ppp() {
+            System.out.println("pp");
+        }        
+    }
+    
+    Plus.InnerPlus ss =  new InnerPlus();
+
     @Override
     void answer() {
         // TODO Auto-generated method stub

@@ -1,4 +1,4 @@
-public interface PrintAns {
+public interface PrintAns{
     /**
      *
      */
