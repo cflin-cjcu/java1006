@@ -1,4 +1,5 @@
-public class Main {
+
+public class Main{
     
     public static void main(String[] args) {
         
@@ -10,8 +11,7 @@ public class Main {
         g.setA(9);
         g.setB(5);
         g.answer();
-
-
-
+        k.ss.ppp();
+        
     }
 }
